@@ -9,5 +9,6 @@ Red
 Green
 Yellow
 Orange
+Violet
 
 (just an example.)
