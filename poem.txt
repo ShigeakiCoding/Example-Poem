@@ -1,0 +1,12 @@
+The rainbow
+
+This repository tells you about colors in the rainbow.
+
+Purple
+Blue
+Pink
+Red
+Yellow
+Orange
+
+(just an example.)
