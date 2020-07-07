@@ -1,4 +1,4 @@
-The rainbow and the set of part two colors
+The rainbow and the set of part two colors and the ores (colors in ores terraria)
 
 This repository tells you about colors in the rainbow.
 
@@ -15,5 +15,10 @@ Part 2 colors
 lime
 lemon
 moral
+
+Ores
+Gold ore (yellow)
+Metorite (red)
+Demonite (blue)
 
 (just an example.)
