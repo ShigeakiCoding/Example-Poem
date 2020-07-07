@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the set of part two colors
 
 This repository tells you about colors in the rainbow.
 
@@ -10,5 +10,10 @@ Green
 Yellow
 Orange
 Violet
+
+Part 2 colors
+lime
+lemon
+moral
 
 (just an example.)
